@@ -14,3 +14,9 @@ Sed tempus elit id feugiat tempor.
 * Amet Consectetur
 * Adipiscing Elit
 * Mauris Tincidunt
+
+Lieblingscharakter once said:
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+> Mauris tincidunt dapibus gravida.
+> Nulla sagittis maximus tempus. Nulla nec lorem orci.
+> Maecenas fringilla felis at erat feugiat, nec rutrum dui rhoncus.
