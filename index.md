@@ -20,3 +20,5 @@ Lieblingscharakter once said:
 > Mauris tincidunt dapibus gravida.
 > Nulla sagittis maximus tempus. Nulla nec lorem orci.
 > Maecenas fringilla felis at erat feugiat, nec rutrum dui rhoncus.
+
+<img src="https://imgur.com/YEINOTx"/>
