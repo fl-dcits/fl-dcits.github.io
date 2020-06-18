@@ -7,3 +7,10 @@ Vivamus et turpis non erat eleifend suscipit in a urna. Curabitur mollis eros id
 tincidunt. Integer commodo iaculis lobortis. Suspendisse potenti. Cras vitae lectus arcu. 
 Sed pellentesque metus ac nulla interdum commodo. Proin sit amet blandit diam. 
 Sed tempus elit id feugiat tempor. 
+
+## Charaktereigenschaften
+* Lorem Ipsum
+* Dolor Sit
+* Amet Consectetur
+* Adipiscing Elit
+* Mauris Tincidunt
